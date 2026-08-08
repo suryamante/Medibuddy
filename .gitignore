@@ -1,3 +1,4 @@
-# ignore 'Zone.Identifier' files
 *Zone.Identifier
 *obj/
+*_MACOSX/
+*bin/
