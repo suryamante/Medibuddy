@@ -1,0 +1,3 @@
+# ignore 'Zone.Identifier' files
+*Zone.Identifier
+*obj/
